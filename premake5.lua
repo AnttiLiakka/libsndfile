@@ -88,7 +88,7 @@ project "libsndfile"
         "src/common.c",
         "src/dither.c",
         "src/double64.c",
-        "src/dwd/c",
+        "src/dwd.c",
         "src/dwvw.c",
         "src/file_io.c",
         "src/flac.c",
